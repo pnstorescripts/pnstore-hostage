@@ -1,2 +1,53 @@
-# pnstore-hostage
-Advanced NPC Hostage System for FiveM( Tebex Only).  Purchase required via PNSTORE Tebex.  Includes ox_target integration and Discord logging.
+# PNSTORE Hostage Script V1
+
+Advanced NPC Hostage System for FiveM.
+
+This is a **premium resource**.
+Purchase required.
+
+---
+
+## 🔥 Features
+
+- ox_target integration
+- Capture / Kneel / Surrender
+- NPC Follow
+- Weapon validation
+- Discord logging
+- Optimized animations
+
+---
+
+## 🛒 Purchase
+
+Official store only:
+
+https://pnstorescripts.tebex.io/
+
+---
+
+## 📦 Installation
+
+Files are provided after purchase.
+
+---
+
+## 🛠️ Requirements
+
+- ox_lib
+- ox_target
+
+---
+
+## 📜 License
+
+No resell  
+No reupload  
+No sharing
+
+---
+
+## 💬 Support
+
+Email: pnstorescripts@gmail.com  
+Discord: Coming Soon
