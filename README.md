@@ -1,3 +1,4 @@
+![Uploading image.png…]()
 # PNSTORE Hostage Script V1
 
 Advanced NPC Hostage System for FiveM.
@@ -50,4 +51,5 @@ No sharing
 ## 💬 Support
 
 Email: pnstorescripts@gmail.com  
+
 Discord: Coming Soon
