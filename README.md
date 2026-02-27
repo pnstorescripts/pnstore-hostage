@@ -1,4 +1,10 @@
-[![Uploading image.png…]()](https://cdn.discordapp.com/attachments/1477003007047630900/1477003125037596805/pnstore_takehostage.png?ex=69a32dda&is=69a1dc5a&hm=eea0b699d023fa90394e20022885fc6a2a2036d993050355452251eac70dcd5f&)
+# PNSTORE Hostage Script V1
+
+<p align="center">
+  <img src="./pnstore_hostage.png" alt="PNSTORE Take Hostage Preview" width="800"/>
+</p>
+
+Advanced NPC Hostage System for FiveM.
 # PNSTORE Hostage Script V1
 
 Advanced NPC Hostage System for FiveM.
@@ -53,4 +59,5 @@ No sharing
 Email: pnstorescripts@gmail.com  
 
 Discord: Coming Soon
+
 
