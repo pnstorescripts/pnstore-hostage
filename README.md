@@ -5,9 +5,6 @@
 </p>
 
 Advanced NPC Hostage System for FiveM.
-# PNSTORE Hostage Script V1
-
-Advanced NPC Hostage System for FiveM.
 
 This is a **premium resource**.
 Purchase required.
@@ -59,5 +56,6 @@ No sharing
 Email: pnstorescripts@gmail.com  
 
 Discord: Coming Soon
+
 
 
